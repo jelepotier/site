@@ -10,5 +10,7 @@ Chaque article contient un en-tête qui permet de lui rattacher des données.
 title: Un titre pour découvrir l'article
 par: <l'identifiant github de la personne contributrice> 
 description: >
-    Et là, du texte, plein de texte même, ...
-```
+    Et là, du texte, plein de texte même, ...```
+
+    Bonjour Github
+    
